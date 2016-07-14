@@ -1,0 +1,5 @@
+Platform
+DeviceManufacturer
+DeviceModel
+Locale
+AppVersion

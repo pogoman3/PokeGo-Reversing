@@ -1,0 +1,9 @@
+Avatar
+Skin
+Hair
+Shirt
+Pants
+Hat
+Shoes
+Eyes
+Backpack

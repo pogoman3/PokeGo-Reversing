@@ -1,0 +1,4 @@
+FortId
+PokemonId
+PlayerLatDegrees
+PlayerLngDegrees

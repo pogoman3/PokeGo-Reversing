@@ -1,0 +1,9 @@
+CreationTimeMs
+Name
+Team
+PlayerAvatarProto
+MaxPokemonStorage
+MaxItemStorage
+DailyBonusProto
+EquippedBadgeProto
+ContactSettingsProto

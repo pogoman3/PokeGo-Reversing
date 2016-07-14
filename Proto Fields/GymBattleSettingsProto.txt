@@ -1,0 +1,14 @@
+EnergyPerSec
+DodgeEnergyCost
+RetargetSeconds
+EnemyAttackInterval
+AttackServerInterval
+RoundDurationSeconds
+BonusTimePerAllySeconds
+MaximumAttackersPerBattle
+SameTypeAttackBonusMultiplier
+MaximumEnergy
+EnergyDeltaPerHealthLost
+DodgeDurationMs
+MinimumPlayerLevel
+SwapDurationMs

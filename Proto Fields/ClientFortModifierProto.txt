@@ -1,0 +1,3 @@
+ModifierType
+ExpirationTimeMs
+DeployingPlayerCodename

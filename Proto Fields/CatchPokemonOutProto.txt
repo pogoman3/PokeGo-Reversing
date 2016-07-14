@@ -1,0 +1,4 @@
+Status
+MissPercent
+CapturedPokemonId
+Scores

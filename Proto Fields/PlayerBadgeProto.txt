@@ -1,0 +1,5 @@
+BadgeType
+Rank
+StartValue
+EndValue
+CurrentValue

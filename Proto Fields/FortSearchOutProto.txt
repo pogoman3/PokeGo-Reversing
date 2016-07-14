@@ -1,0 +1,6 @@
+Result
+GemsAwarded
+EggPokemon
+XpAwarded
+CooldownComplete
+ChainHackSequenceNumber

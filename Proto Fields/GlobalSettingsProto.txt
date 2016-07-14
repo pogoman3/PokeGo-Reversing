@@ -1,0 +1,5 @@
+FortSettings
+MapSettings
+LevelSettings
+InventorySettings
+MinimumClientVersion

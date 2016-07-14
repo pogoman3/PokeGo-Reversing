@@ -1,0 +1,7 @@
+Success
+ItemCaptureMult
+ItemFleeMult
+StopMovement
+StopAttack
+TargetMax
+TargetSlow

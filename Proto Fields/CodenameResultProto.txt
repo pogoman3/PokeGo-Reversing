@@ -1,0 +1,4 @@
+Codename
+UserMessage
+IsAssignable
+Status

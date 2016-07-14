@@ -1,0 +1,10 @@
+Id
+Team
+Name
+Fp
+Stamina
+MaxStamina
+FortType
+Latitude
+Longitude
+Description

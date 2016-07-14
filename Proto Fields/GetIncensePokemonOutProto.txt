@@ -1,0 +1,7 @@
+Result
+PokemonTypeId
+Lat
+Lng
+EncounterLocation
+EncounterId
+DisappearTimeMs

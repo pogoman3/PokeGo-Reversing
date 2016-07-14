@@ -1,0 +1,6 @@
+SpawnpointId
+EncounterId
+PokedexTypeId
+ExpirationTimeMs
+Latitude
+Longitude

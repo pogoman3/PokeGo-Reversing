@@ -1,0 +1,14 @@
+JavaPackage
+JavaOuterClassname
+JavaMultipleFiles
+JavaGenerateEqualsAndHash
+JavaStringCheckUtf8
+GoPackage
+CcGenericServices
+JavaGenericServices
+PyGenericServices
+Deprecated
+CcEnableArenas
+ObjcClassPrefix
+CsharpNamespace
+JavananoUseDeprecatedPackage

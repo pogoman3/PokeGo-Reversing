@@ -1,0 +1,7 @@
+PokemonVisibleRange
+PokeNavRangeMeters
+EncounterRangeMeters
+GetMapObjectsMinRefreshSeconds
+GetMapObjectsMaxRefreshSeconds
+GetMapObjectsMinDistanceMeters
+GoogleMapsApiKey

@@ -1,0 +1,13 @@
+Type
+ActionStartMs
+DurationMs
+EnergyDelta
+AttackerIndex
+TargetIndex
+ActivePokemonId
+JoinedPlayer
+BattleResults
+DamageWindowStartMs
+DamageWindowEndMs
+QuitPlayer
+TargetPokemonId

@@ -1,0 +1,5 @@
+DailyBonusCoins
+DailyDefenderBonusMaxDefenders
+MinTimeBetweenClaimsMs
+DailyBonusEnabled
+DailyDefenderBonusEnabled

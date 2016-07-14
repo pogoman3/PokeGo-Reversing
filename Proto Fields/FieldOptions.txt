@@ -1,0 +1,4 @@
+Packed
+Lazy
+Deprecated
+Weak

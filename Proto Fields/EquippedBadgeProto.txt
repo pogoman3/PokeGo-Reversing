@@ -1,0 +1,3 @@
+EquippedBadge
+Level
+NextEquipChangeAllowedTimestampMs

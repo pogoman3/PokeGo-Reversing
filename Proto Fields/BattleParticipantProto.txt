@@ -1,0 +1,2 @@
+ActivePokemon
+TrainerPublicProfile

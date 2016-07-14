@@ -1,0 +1,17 @@
+UniqueId
+ModelScale
+Type1
+Type2
+Camera
+Encounter
+Stats
+EvolutionPips
+PokemonClass
+PokedexHeightM
+PokedexWeightKg
+ParentId
+HeightStdDev
+WeightStdDev
+KmDistanceToHatch
+FamilyId
+CandyToEvolve

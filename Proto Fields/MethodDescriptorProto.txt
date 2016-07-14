@@ -1,0 +1,6 @@
+Name
+InputType
+OutputType
+Options
+ClientStreaming
+ServerStreaming

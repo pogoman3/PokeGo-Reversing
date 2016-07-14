@@ -1,0 +1,4 @@
+BaseStamina
+BaseAttack
+BaseDefense
+DodgeEnergyDelta

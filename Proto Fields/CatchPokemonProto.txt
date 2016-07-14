@@ -1,0 +1,7 @@
+EncounterId
+Pokeball
+NormalizedReticleSize
+SpawnPointGuid
+HitPokemon
+SpinModifier
+NormalizedHitPosition

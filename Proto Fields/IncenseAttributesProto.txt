@@ -1,0 +1,6 @@
+IncenseLifetimeSeconds
+PokemonIncenseTypeProbability
+StandingTimeBetweenEncountersSec
+MovingTimeBetweenEncounterSec
+DistanceRequiredForShorterIntervalMeters
+PokemonAttractedLengthSec

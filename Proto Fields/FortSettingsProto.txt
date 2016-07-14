@@ -1,0 +1,6 @@
+InteractionRangeMeters
+MaxTotalDeployedPokemon
+MaxPlayerDeployedPokemon
+DeployStaminaMultiplier
+DeployAttackMultiplier
+FarInteractionRangeMeters

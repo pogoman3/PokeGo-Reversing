@@ -1,0 +1,6 @@
+Result
+BattleStartMs
+BattleEndMs
+BattleId
+Defender
+BattleLog

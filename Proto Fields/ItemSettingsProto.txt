@@ -1,0 +1,15 @@
+UniqueId
+ItemType
+Category
+DropFreq
+DropTrainerLevel
+Pokeball
+Potion
+Revive
+Battle
+Food
+InventoryUpgrade
+XpBoost
+Incense
+EggIncubator
+FortModifier

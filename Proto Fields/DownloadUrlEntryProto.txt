@@ -1,0 +1,4 @@
+AssetId
+Url
+Size
+Checksum

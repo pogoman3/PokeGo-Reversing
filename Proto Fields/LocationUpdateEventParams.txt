@@ -1,0 +1,7 @@
+LatitudeDeg
+LongitudeDeg
+AltitudeM
+AccuracyM
+TimestampS
+ProviderStatus
+LocationType

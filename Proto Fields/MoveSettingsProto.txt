@@ -1,0 +1,15 @@
+UniqueId
+AnimationId
+Type
+Power
+AccuracyChance
+CriticalChance
+HealScalar
+StaminaLossScalar
+TrainerLevelMin
+TrainerLevelMax
+VfxName
+DurationMs
+DamageWindowStartMs
+DamageWindowEndMs
+EnergyDelta

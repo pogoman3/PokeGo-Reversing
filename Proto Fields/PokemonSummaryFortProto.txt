@@ -1,0 +1,4 @@
+FortSummaryId
+LastModifiedMs
+Latitude
+Longitude

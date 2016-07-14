@@ -1,0 +1,4 @@
+Item
+ItemType
+ExpirationMs
+AppliedMs

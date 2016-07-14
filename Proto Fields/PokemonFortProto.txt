@@ -1,0 +1,15 @@
+FortId
+LastModifiedMs
+Latitude
+Longitude
+Team
+GuardPokemonId
+GuardPokemonLevel
+Enabled
+FortType
+GymPoints
+IsInBattle
+ActivePokemon
+CooldownCompleteMs
+Sponsor
+RenderingType

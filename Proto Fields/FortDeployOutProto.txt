@@ -1,0 +1,4 @@
+Result
+FortDetailsOutProto
+EggPokemon
+GymStateProto

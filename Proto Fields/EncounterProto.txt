@@ -1,0 +1,4 @@
+EncounterId
+SpawnpointId
+PlayerLatDegrees
+PlayerLngDegrees

@@ -1,0 +1,16 @@
+TemplateId
+Pokemon
+Item
+Move
+MoveSequence
+TypeEffective
+Badge
+Camera
+PlayerLevel
+GymLevel
+BattleSettings
+EncounterSettings
+IapItemDisplay
+IapSettings
+PokemonUpgrades
+EquippedBadges

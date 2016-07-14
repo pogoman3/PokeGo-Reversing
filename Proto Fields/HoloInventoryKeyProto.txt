@@ -1,0 +1,10 @@
+PokemonId
+Item
+PokedexEntryId
+PlayerStats
+PlayerCurrency
+PlayerCamera
+InventoryUpgrades
+AppliedItems
+EggIncubators
+PokemonFamilyId

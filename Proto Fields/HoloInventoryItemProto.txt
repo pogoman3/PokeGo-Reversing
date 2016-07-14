@@ -1,0 +1,10 @@
+Pokemon
+Item
+PokedexEntry
+PlayerStats
+PlayerCurrency
+PlayerCamera
+InventoryUpgrades
+AppliedItems
+EggIncubators
+PokemonFamily

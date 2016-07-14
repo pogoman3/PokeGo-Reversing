@@ -1,0 +1,4 @@
+GymState
+Name
+Result
+Description

@@ -1,0 +1,4 @@
+Result
+PokedexNumber
+CombatPoints
+PokemonId

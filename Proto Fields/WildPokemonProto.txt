@@ -1,0 +1,7 @@
+EncounterId
+LastModifiedMs
+Latitude
+Longitude
+SpawnPointId
+Pokemon
+TimeTillHiddenMs

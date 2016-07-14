@@ -1,0 +1,9 @@
+BaseCaptureRate
+BaseFleeRate
+CollisionRadiusM
+CollisionHeightM
+CollisionHeadRadiusM
+MovementType
+MovementTimerS
+JumpTimeS
+AttackTimerS

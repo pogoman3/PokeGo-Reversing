@@ -1,0 +1,2 @@
+TrainerCpModifier
+TrainerDifficultyModifier

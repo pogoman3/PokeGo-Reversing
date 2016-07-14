@@ -1,0 +1,6 @@
+AssetId
+BundleName
+Version
+Checksum
+Size
+Key

@@ -1,0 +1,8 @@
+Name
+Number
+TypeName
+Extendee
+DefaultValue
+OneofIndex
+JsonName
+Options

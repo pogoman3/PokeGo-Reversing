@@ -1,0 +1,3 @@
+PokedexNumber
+DistanceMeters
+EncounterId

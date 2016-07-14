@@ -1,0 +1,5 @@
+State
+BattleType
+ServerMs
+BattleStartMs
+BattleEndMs

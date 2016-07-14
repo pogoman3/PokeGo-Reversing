@@ -1,0 +1,5 @@
+MaxPokemon
+MaxBagItems
+BasePokemon
+BaseBagItems
+BaseEggs

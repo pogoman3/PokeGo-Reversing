@@ -1,0 +1,7 @@
+ItemId
+Item
+IncubatorType
+UsesRemaining
+PokemonId
+StartKmWalked
+TargetKmWalked

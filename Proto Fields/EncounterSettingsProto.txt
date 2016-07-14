@@ -1,0 +1,5 @@
+SpinBonusThreshold
+ExcellentThrowThreshold
+GreatThrowThreshold
+NiceThrowThreshold
+MilestoneThreshold

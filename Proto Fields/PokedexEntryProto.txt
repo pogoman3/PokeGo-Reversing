@@ -1,0 +1,5 @@
+PokedexEntryNumber
+TimesEncountered
+TimesCaptured
+EvolutionStonePieces
+EvolutionStones
